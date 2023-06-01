@@ -1,0 +1,11 @@
+1. github account
+2. empty repo
+3. local system
+   git config --global user.name "techtownera"
+   git config --global user.gmail "2015850832atmscollege.com"
+   
+4. git push -u origin master
+   username --> techtownera
+   password --> token code
+   
+dummy changes
